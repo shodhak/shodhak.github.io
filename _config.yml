@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/fullsizeoutput_582.jpeg"
+avatar: "/img/fullsizeoutput_b.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "shreyas.joshi@live.com"
-  facebook: biomanoos
+#  facebook: biomanoos
   github: shodhak
   twitter: jshreyas
 #  reddit: yourname
