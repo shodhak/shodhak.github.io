@@ -485,7 +485,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 20px; /*This might be the line for postdoc subheading font size*/
+  font-size: 24px; /*This is the line for postdoc subheading font size*/
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -533,7 +533,7 @@ footer .theme-by {
     font-size: 65px; /*This is the font size for the page title*/
   }
   .intro-header .post-heading h1 {
-    font-size: 30px; /*This is the font size for the page subheading*/
+    font-size: 30px; 
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
