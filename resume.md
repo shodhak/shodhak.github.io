@@ -2,8 +2,6 @@
 
 60 College Street, New Haven, CT-06520
 
-Email <shreyas.joshi@yale.edu> | Cell (859) 338-4166
-
 **<span style="font-variant:small-caps;">Summary</span>**
 
 -   PhD with strong academic track record and diverse project experience
