@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Shreyas Joshi
+subtitle: **Shreyas Joshi**
 use-site-title: true
 ---
 _Office Address:_ 60 College Street, New Haven, CT-06520
