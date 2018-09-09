@@ -35,15 +35,15 @@ Experience</span>**
 *Cell Culture Analyst*
 -   Tested cell culture media for plating efficiency and helped to develop and test skin culture media.
 
-**<span style="font-variant:small-caps;">Education</span>**
-PhD Biology, University of Kentucky, USA May, 2017
-MSc Bioinformatics, Nottingham Trent University, UK June, 2008
+**<span style="font-variant:small-caps;">Education</span>**  
+PhD Biology, University of Kentucky, USA May, 2017  
+MSc Bioinformatics, Nottingham Trent University, UK June, 2008  
 BSc Microbiology, Barkatullah University, India June, 2006
 
-**<span style="font-variant:small-caps;">Skills</span>**
-*Software:* Microsoft Office, JMP, SPSS, and Endnote
-*Programming:* Proficient in R (dplyr, tidyr, shiny, plotly, ggplot), Python, Perl and Matlab
-*Bioinformatics:* BLAST, ClustalW, Ensembl, NCBI, MGI, OMIM, GO, UCSC Genome, IGV etc.
+**<span style="font-variant:small-caps;">Skills</span>**  
+_Software:_ Microsoft Office, JMP, SPSS, and Endnote  
+_Programming:_ Proficient in R (dplyr, tidyr, shiny, plotly, ggplot), Python, Perl and Matlab    
+_Bioinformatics:_ BLAST, ClustalW, Ensembl, NCBI, MGI, OMIM, GO, UCSC Genome, IGV etc.
 
 **<span style="font-variant:small-caps;">Awards</span>**
 -   Ribble Mini Grant Competition (2014, 2016), University of Kentucky
