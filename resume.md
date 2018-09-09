@@ -1,5 +1,9 @@
-**SHREYAS JOSHI**
-
+---
+layout: page
+title: Resume
+subtitle: Shreyas Joshi
+use-site-title: true
+---
 _Office Address:_ 60 College Street, New Haven, CT-06520
 
 **<span style="font-variant:small-caps;">Professional Experience</span>**
@@ -7,7 +11,7 @@ _Office Address:_ 60 College Street, New Haven, CT-06520
 **Yale University** May 2017 - Present
 *Postdoctoral Associate*
 -   Implemented data science methods like Regression, Monte Carlo simulations and Market Basket analysis to a dataset of 37,000 clinical isolates, and identified novel patterns of serotype replacement in *Streptococcus pneumoniae.*
--   NGS analysis from microbial cultures in competition to assess genomic variants and identify genes that regulate polysaccharide capsule composition and structure.
+-   NGS analysis of microbial cultures isolates to assess genomic variants and identify genes that regulate polysaccharide capsule composition and structure.
 -   Built shiny apps and generated R markdown documents to communicate research findings to the group and collaborators.
 
 **University of Kentucky** Aug 2011 – May 2017
