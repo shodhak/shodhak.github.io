@@ -1,9 +1,8 @@
 **SHREYAS JOSHI**
 
-60 College Street, New Haven, CT-06520
+_Office Address:_ 60 College Street, New Haven, CT-06520
 
-**<span style="font-variant:small-caps;">Professional
-Experience</span>**
+**<span style="font-variant:small-caps;">Professional Experience</span>**
 
 **Yale University** May 2017 - Present
 *Postdoctoral Associate*
@@ -25,8 +24,7 @@ Experience</span>**
 
 -   **Relevant Coursework**: Biostatistics, Bioinformatics, Genomics, Programming, Correlation and Regression, Statistical Genetics, Multivariate Methods, Biometry, Machine Learning, Medical Informatics
 
-**Advanced Center for Treatment, Education & Research in Cancer
-(ACTREC)** Sep 2009 – Jan 2011
+**Advanced Center for Treatment, Education & Research in Cancer (ACTREC)** Sep 2009 – Jan 2011
 *Research Assistant*
 -   Performed immunohistochemistry on patient tumor samples and collected expression data for cytokeratin protein biomarkers.
 -   Conducted survival and sensitivity analyses to assess the prognostic value and their role as prognostic markers in human oral pre-cancer and cancer.
