@@ -17,7 +17,7 @@ baseurl: ""
 title: Shreyas Joshi
 
 # Short description of your site
-description: Computational biology at Yale University
+description: Computational biologist at Yale University
 
 # --- Navigation bar options --- #
 
@@ -37,7 +37,7 @@ avatar: "/img/fullsizeoutput_584.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/yale_icon.png"
+title-img: "/img/yale_icon.png": "www.yale.edu"
 
 # --- Background colour/image options --- #
 
@@ -72,7 +72,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "shreyas.joshi@live.com"
 #  facebook: biomanoos
   github: shodhak
