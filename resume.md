@@ -15,7 +15,7 @@ _Office Address:_ 60 College Street, New Haven, CT-06520
 -   Built shiny apps and generated R markdown documents to communicate research findings to the group and collaborators.
 
 **University of Kentucky** Aug 2011 – May 2017  
-*PhD* (GPA: 3.7/4.0; GRE: 740Q, 560V)  
+*PhD* (GPA: 3.7/4.0)    
 -   **Thesis Project**: Applied statistical methods like multiple regression, principal component analysis, outlier analysis to identify novel candidate genes affecting sleep. Performed Bayesian imputation in a dataset with more than 34 million observations collected from nearly 10 thousand mice, and implemented decision tree and random forest algorithms to identify key predictors of sleep behavior.  
 
 -   **Business**: Worked with team at Signal solutions LLC to optimize piezoelectric sleep wake monitoring system for mice. Provided troubleshooting and experimental design support to labs using the technology, and provided inputs in algorithm development. Presented the technology and novel findings at international meetings and conferences.  
