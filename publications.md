@@ -14,7 +14,7 @@
 2. EEG and Reaction Time profiling in novice meditators.
 
 #### **Op-Ed**
-1. Can we all sleep some more, please? (Feb 2019, Newslaundry)
+1. Can we all sleep some more, please? (Feb 2019, [Newslaundry](https://www.newslaundry.com/2019/02/20/sleep-deprivation-reduces-productivity))
 
 #### **Satire**
 1. ISRO renames GSAT-6 satellite to Indrani to get media coverage. (Sept 2015, Faking News)
