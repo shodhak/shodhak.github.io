@@ -6,7 +6,15 @@
 4. Prognostic value of tissue polypeptide antigen in oral squamous cell carcinoma. (Feb 2011, Oral Oncology)
 5. Prognostic role of Oct4, CD44 and c-Myc in radio-chemo-resistant oral cancer patients and their tumourigenic potential in immunodeficient mice. (Apr 2015, Clinical Oral Investigations)
 6. Analysis of sleep traits in knockout mice from the large-scale KOMP2 population using a non-invasive, high-throughput piezoelectric system. (Dec 2015, BMC Bioinformatics)
+7. Noninvasive sleep monitoring in large-scale screening of knock-out mice reveals novel sleep-related genes. (Jan 2019, bioRxiv)
+8. Growth characteristics of pneumococcus vary with the chemical composition of the capsule and with environmental conditions. (Feb 2019, bioRxiv)
 
 #### **Manuscripts under preparation**
 1. Piezo system identifies genes influencing sleep from KOMP2 pipeline with a high hit rate.
 2. EEG and Reaction Time profiling in novice meditators.
+
+#### **Op-Ed**
+1. Can we all sleep some more, please? (Feb 2019, Newslaundry)
+
+#### **Satire**
+1. ISRO renames GSAT-6 satellite to Indrani to get media coverage. (Sept 2015, Faking News)
