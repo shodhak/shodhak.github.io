@@ -10,7 +10,7 @@
 8. Growth characteristics of pneumococcus vary with the chemical composition of the capsule and with environmental conditions. (Feb 2019, bioRxiv)
 
 #### **Manuscripts under preparation**
-1. Piezo system identifies genes influencing sleep from KOMP2 pipeline with a high hit rate.
+1. Identifying non-random patterns of serotype switching in pneumococcus.
 2. EEG and Reaction Time profiling in novice meditators.
 
 #### **Op-Ed**
