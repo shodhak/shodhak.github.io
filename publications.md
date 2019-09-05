@@ -8,7 +8,7 @@
 6. Analysis of sleep traits in knockout mice from the large-scale KOMP2 population using a non-invasive, high-throughput piezoelectric system. (Dec 2015, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S15-P15))
 7. Noninvasive sleep monitoring in large-scale screening of knock-out mice reveals novel sleep-related genes. (Jan 2019, [bioRxiv](https://www.biorxiv.org/content/10.1101/517680v1))
 8. Growth characteristics of pneumococcus vary with the chemical composition of the capsule and with environmental conditions. (Feb 2019, [bioRxiv](https://www.biorxiv.org/content/10.1101/416040v2))
-9. Active time-restricted feeding improved sleep-wake cycle in db/db mice. (Sept 2019, [Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2019.00969/abstract)) 
+9. Active time-restricted feeding improved sleep-wake cycle in db/db mice. (Sept 2019, [Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2019.00969/abstract))  
 10.Identification of Novel Sleep Related Genes from Large Scale Phenotyping Experiments in Mice. (May 2017, [PhD Thesis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1042&context=biology_etds))
 
 #### **Manuscripts under preparation**
